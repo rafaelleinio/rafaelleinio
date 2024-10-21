@@ -3,7 +3,7 @@
 🤓 facts about me:
 - passionate about technologies that change people's lives
 - coding since 15 years old
-- 11+ years of programming, 6+ with python, 6+ in data.
+- 12+ years of programming, 7+ with python, 7+ in data.
 - my main interests are in open-source, self-service data platforms, MLOps, DDD, and TDD
 
 💼 I have many years of experience building data platforms and dev tools in modern tech organizations. From small startups (< 50) to 10k+ corporations I know how to operate in different growth stages.
@@ -17,10 +17,10 @@ If you're passionate about **data quality** like me, you'll definitely like my p
 |-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | languages       | Python (main language), Shell, SQL                                                                                                                                                                                                                                                                                                                                                                        |
 | dev/data ops 	  | Git, Github Actions, Drone CI/CD, CircleCI<br>Docker, Kubernetes, Helm<br>Datadog                                                                                                                                                                             	                                                                                                                                           |
-| data oss   	    | DBT, Apache Spark (PySpark), Databricks, Airflow, Airbyte<br>PostgreSQL, Cassandra, MySQL, MongoDB, DynamoDB, Redis<br>Kafka, NATS.io                                                                                                                                                                                                                                                                	    |
+| data oss   	    | DBT, Apache Spark (PySpark), Databricks, Airflow, Airbyte<br>PostgreSQL, Cassandra, MySQL, MongoDB, DynamoDB, Redis, DuckDB<br>Kafka, NATS.io                                                                                                                                                                                                                                                                	    |
 | cloud       	   | AWS: S3, EMR, ECR, Athena, RDS, Redshift, Glue, Lambda, SNS, SQS, EC2<br>GCP: Composer, Cloud Storage, BigQuery, DataStore, Cloud Run, Compute Engine, Kubernetes Engine, Artifact Registry                                                                                                                                                                                                             	 |
 | OS          	   | Linux, MacOs                                                                                                                                                                                                                                                                                                                     	                                                                        |
-| 🐍 libs I ❤️  	 | aiohttp, flask, fastapi, pydantic, click, typer, sqlalchemy, scrapy, beautifulsoup, desert, marshmallow, pydeequ, awswrangler<br>Test and Quality: pytest, mypy, flake8, isort, black<br>Data Science: scikit-learn, keras, tensorflow, prophet, neuralprophet, merlion,  jupyter, pandas, numpy, matplotlib, seaborn, streamlit 	                                                                        |
+| 🐍 libs I ❤️  	 | aiohttp, fastapi, pydantic, typer, scrapy, streamlit, tenacity<br>Test and Quality: pytest, mypy, flake8, isort, black<br>ML/AI/DS: langchain, scikit-learn, prophet, merlion, jupyter, pandas, numpy, matplotlib, seaborn 	                                                                        |
 
 ## my open source work 🤘
 
@@ -32,16 +32,18 @@ I'm also the co-creator of [butterfree](https://github.com/quintoandar/butterfre
 
 ### other contributions
 
-I've also made minor contributions for the following awesome open-source libraries:
-- [aws-sdk-pandas](https://github.com/aws/aws-sdk-pandas): easy data integration with AWS services.
-- [merlion](https://github.com/salesforce/Merlion): a time series forecasting library for python.
+I've also made contributions to the following awesome open-source libraries:
+- [airflow](https://github.com/apache/airflow): the biggest open-source orchestration framework, created by Airbnb
+- [aws-sdk-pandas](https://github.com/aws/aws-sdk-pandas): easy data integration with AWS services, created by AWS
+- [merlion](https://github.com/salesforce/Merlion): a time series forecasting library for python created by SalesForce
+- [sageintacct-sdk-py](https://github.com/fylein/sageintacct-sdk-py): a python SDK created by the open-source community for Sage Intacct (a market leader for solutions for accounting, payroll, and payments)
 
 ### my projects
-I have a bunch of data engineer test cases which landed me Senior positions in competitive tech companies. So before asking me a take-home assignment, please check these instead:
+I have a bunch of data engineer test cases which landed me Senior positions in competitive tech companies. So before asking me a take-home assignment, please check these instead 👇
 - [strider-challenge](https://github.com/rafaelleinio/strider-challenge): a simple typer and sqlmodel application developed with DDD and TDD
-- [pyspark-pipeline](https://github.com/rafaelleinio/pyspark-pipeline): shows the implementation of a pyspark data aggregation pipeline with automated tests.
-- [legiti-challenge](https://github.com/rafaelleinio/legiti-challenge): A nice project solution for building and running pipelines for feature store.
-- [meli-challenge](https://github.com/rafaelleinio/meli-challenge): a solution for the characters interactions problem using graph and spark.
+- [pyspark-pipeline](https://github.com/rafaelleinio/pyspark-pipeline): shows the implementation of a pyspark data aggregation pipeline with automated tests
+- [legiti-challenge](https://github.com/rafaelleinio/legiti-challenge): A nice project solution for building and running pipelines for feature store
+- [meli-challenge](https://github.com/rafaelleinio/meli-challenge): a solution for the characters interactions problem using graph and spark
 
 Here's an archive of old college projects (don't judge me 😅):
 - [ntsa](https://github.com/rafaelleinio/ntsa): repository for codes, reports, and projects for the Nonlinear Time Series Analysis class from Computer Science Master's Degree Course at Federal University of São Paulo (UNIFESP).
