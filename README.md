@@ -3,7 +3,7 @@
 🤓 facts about me:
 - passionate about technologies that change people's lives
 - coding since 15 years old
-- 12+ years of programming, 7+ with python, 7+ in data.
+- 13+ years of programming, 8+ with python, 8+ in data.
 - my main interests are in open-source, self-service data platforms, MLOps, DDD, and TDD
 
 💼 I have many years of experience building data platforms and dev tools in modern tech organizations. From small startups (< 50) to 10k+ corporations I know how to operate in different growth stages.
