@@ -8,7 +8,7 @@
 
 💼 I have many years of experience building data platforms and dev tools in modern tech organizations. From small startups (< 50) to 10k+ corporations I know how to operate in different growth stages.
 
-📚 I've studied at the Federal University of São Paulo (UNIFESP). I have a bachelor's degree in Science and Technology and another in Computer Science. I have also recently finished a master of science in intelligent systems, with my research in the last 4 years focused on automated anomaly detection for data quality exploring novel architectures of AutoML and Metrics Repository. My university is one of the most prestigious in Brazil, fully funded by the Brazilian government. In the years I was there it was elected top 5 in all LATAM by Time Higher Education. 
+📚 I've studied at the Federal University of São Paulo (UNIFESP). I have a bachelor's degree in Science and Technology and another in Computer Science. I also have a master of science in intelligent systems, in which during 4 years was focused on the following topic: automated anomaly detection for data quality exploring novel architectures of AutoML and Metrics Repository. My university is one of the most prestigious in Brazil, fully funded by the Brazilian government. In the years I was there it was elected top 5 in all LATAM by Time Higher Education. 
 
 If you're passionate about **data quality** like me, you'll definitely like my publication which can be read [here](https://repositorio.unifesp.br/handle/11600/67320).
 
@@ -24,9 +24,11 @@ If you're passionate about **data quality** like me, you'll definitely like my p
 
 ## my open source work 🤘
 
-### I'm the creator of the following PyPI packages:
+### I'm the creator of the following Python packages:
 - [biar](https://github.com/rafaelleinio/biar): batteries-included async requests tool for python
 - [thoth](https://github.com/rafaelleinio/thoth): Python tool for profiling-based anomaly monitoring on ETL data pipelines leveraging ML and Apache Spark.
+- [gcpde](https://github.com/wandercom/gcpde): An opinionated usage of GCP services from a data engineering perspective. This library is the core that supports all production data pipelines at [Wander](https://www.wander.com/).
+- [cubejs python client](https://github.com/wandercom/cubejs): a unofficial [cubejs](https://github.com/cube-js/cube) (a semantic layer framework) async client for python.
 
 I'm also the co-creator of [butterfree](https://github.com/quintoandar/butterfree) a tool for feature engineering and feature store. We created this tool when I was in the first MLOps squad at @quintoandar. It's used for most ML data pipelines there and has 260+ stars on GitHub.
 
